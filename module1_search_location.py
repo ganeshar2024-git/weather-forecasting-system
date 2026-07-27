@@ -9,7 +9,7 @@ handles invalid location / network errors.
 
 Run standalone: python module1_search_location.py
 """
-
+# Search location module
 import tkinter as tk
 from tkinter import messagebox
 import requests
