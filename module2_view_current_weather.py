@@ -8,7 +8,7 @@ Description: Allows users to view the current weather conditions
 
 Run standalone: python module2_view_current_weather.py
 """
-
+#check current weather
 import tkinter as tk
 from tkinter import messagebox
 from datetime import datetime
