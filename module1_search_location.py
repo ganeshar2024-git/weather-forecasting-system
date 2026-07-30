@@ -7,7 +7,6 @@ Description: Allows the user to search for a specific location to obtain
 weather information. Supports selecting from suggested results, and
 handles invalid location / network errors.
 
-Run standalone: python module1_search_location.py
 """
 # Search location module
 import tkinter as tk
