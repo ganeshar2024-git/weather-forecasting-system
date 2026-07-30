@@ -8,7 +8,7 @@ weather information. Supports selecting from suggested results, and
 handles invalid location / network errors.
 
 """
-# Search location module
+
 import tkinter as tk
 from tkinter import messagebox
 import requests
